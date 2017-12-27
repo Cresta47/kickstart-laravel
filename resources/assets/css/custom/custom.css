@@ -1,0 +1,19 @@
+body {
+    height: 100%;
+    width: 100%;
+    background: url('/images/main.jpg') no-repeat;
+    background-size: auto auto;
+    background-size: cover;
+}
+
+.index-content.jumbotron{
+	background-color: rgba(0,0,0,0.6);
+}
+
+.index-content.jumbotron li{
+	list-style: none;
+}
+
+.color-white{
+	color: #fff;
+}
